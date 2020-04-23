@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">podp12</string>
+    <string name="textEmail">o</string>
+    <string name="textName">o</string>
+    <string name="okButText">OK</string>
+    <string name="clearButText">clear</string>
+    <string name="resultText1">имя</string>
+    <string name="resultText2">e-mail</string>
+    <string name="errorEmptyFields">error</string>
+</resources>
